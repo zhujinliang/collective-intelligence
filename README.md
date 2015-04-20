@@ -1,2 +1,2 @@
 # collective-intelligence
-Code from book Collective Inteligence
+Code practice while reading book Collective Inteligence.
